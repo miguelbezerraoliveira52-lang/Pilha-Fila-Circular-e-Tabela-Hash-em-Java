@@ -276,16 +276,3 @@ Também é possível abrir os arquivos em uma IDE e executar o método `main` da
 - Encapsulamento e organização em classes.
 - Tratamento de exceções.
 
----
-
-## 🎓 Identificação acadêmica
-
-| Campo | Informação |
-| :--- | :--- |
-| **Instituição** | Universidade de Fortaleza — Unifor |
-| **Curso** | Ciência da Computação |
-| **Disciplina** | Estrutura de Dados |
-| **Integrante(s)** | Preencher |
-| **Matrícula(s)** | Preencher |
-| **Turma** | Preencher |
-| **Professor(a)** | Preencher |
